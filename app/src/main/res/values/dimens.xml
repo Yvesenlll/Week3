@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <dimen name="exterior_padding">20dp</dimen>
+    <dimen name="seekbar_width">150dp</dimen>
+</resources>
